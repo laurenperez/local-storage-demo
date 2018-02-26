@@ -1,0 +1,51 @@
+body {
+  text-align: center;
+  font-family: impact; 
+}
+
+div {
+  width: 350px;
+  height: 350px;
+  border: 4px double black;
+  display: inline-block;
+  overflow: auto;
+}
+
+h1{
+  font-size: 85px;
+}
+
+h2 {
+  font-size: 60px;
+  position: relative;
+  top: 20%;
+}
+
+#bigContainer {
+  display: block;
+  border: none;
+  width: 100%;
+  height: auto;
+}
+
+.container {
+  border: none;
+  height: 100px;
+}
+
+.yellowStuff {
+  background: yellow;
+}
+
+#yellowWord {
+  color: yellow;
+}
+
+.blueStuff {
+  background: blue;
+}
+
+#blueWord {
+  color: blue;
+}
+
